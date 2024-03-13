@@ -1,0 +1,13 @@
+OTHELLO Game Rules:
+
+1)Othello gameboard has around 64 discs which are black on one side and white on the other.
+2)The objective of the game is to have majority of your colour discs on the board at the end of the game.
+3)Game begins with the setup where black places two black discs and white places two white discs.
+4)The game can be human vs human or human vs AI mode depending on the player preference.
+5)A move consists of outflanking your opponent discs and then flipping the outflanked discs to your colour.
+6)Outflanking means to place a disc on the board so that your opponent's row of discs is bordered by your colour.
+7)A row may be made up of one or more discs.
+8)Black disc always moves first.
+9)When it is no longer possible for either player to move,the game is over. Discs are counted and the player with the majority of
+the colour discs on the board is the winner.
+10)It is possible for game to end before all 64 squares are filled.
